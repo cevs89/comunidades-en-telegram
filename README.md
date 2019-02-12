@@ -36,6 +36,7 @@ Si deseas agregar algun canal o tienes alguna sugerencia, puedes usar [@openve](
 * [Emprendedores Venezolanos](https://t.me/emprendedores_venezolanos) - @oyepez - @oteroweb
 * [E-shops Dev Venezuela](https://t.me/EShopsDevVenezuela) - @jkhiyami - @Alextic
 * [Firebase Venezuela](https://t.me/firebaseVe) - @villanuevand - @jobsamuel - @JoseCed
+* [Flask en Español](https://t.me/FlaskVe) - @cherny - @cevs89
 * [FreeCodeCamp Caracas](https://t.me/fccCaracas) - @cesarmaximo91 - @Maguc - @miguel_salas
 * [FreeCodeCamp Coro](https://t.me/corofcc) - @hmouhtar
 * [Freelancers Venezuela](https://t.me/freelancersve) - @AlexR1712 - @oteroweb
